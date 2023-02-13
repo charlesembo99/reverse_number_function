@@ -1,2 +1,2 @@
 # reverse_number_function
-A repo containing every exercise I have done in my journey on learning javascript
+reverse number function reverses any number provided for it as an argument
